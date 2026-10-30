@@ -1,6 +1,6 @@
 # Chatter for macOS
 
-[Download Chatter 0.2.88 for macOS](https://github.com/justaicode/chatter-updates/releases/download/v0.2.88/Chatter-0.2.88-macOS.zip) · [Release notes and all assets](https://github.com/justaicode/chatter-updates/releases/tag/v0.2.88)
+[Download Chatter 0.2.89 for macOS](https://github.com/justaicode/chatter-updates/releases/download/v0.2.89/Chatter-0.2.89-macOS.zip) · [Release notes and all assets](https://github.com/justaicode/chatter-updates/releases/tag/v0.2.89)
 
 Requires a Mac with Apple silicon. The app is Developer ID signed and notarized by Apple.
 
@@ -8,7 +8,7 @@ Chatter brings your WhatsApp, Telegram, Instagram, Messenger, Viber and Apple Me
 
 ## Install
 
-1. Download **Chatter-0.2.88-macOS.zip** and open it to expand **Chatter.app**.
+1. Download **Chatter-0.2.89-macOS.zip** and open it to expand **Chatter.app**.
 2. Quit Chatter if it is already running.
 3. Drag **Chatter.app** into **Applications**, replacing the older version when prompted, then open it.
 
